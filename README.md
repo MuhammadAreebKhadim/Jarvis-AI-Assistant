@@ -27,15 +27,15 @@ It can listen to your voice, understand commands, speak back, and perform real t
 
 Run the following before executing:
 
-```bash
-pip install pyttsx3
-pip install SpeechRecognition
-pip install wikipedia
-pip install pyaudio   # If missing
+    ```bash
+     pip install pyttsx3
+     pip install SpeechRecognition
+     pip install wikipedia
+     pip install pyaudio   # If missing
 
-🔊 Works best on Windows (uses sapi5 voice engine).
+ Works best on Windows (uses sapi5 voice engine).
 
-▶  How to Run
+  How to Run
    ```bash
 
 python jarvis.py
