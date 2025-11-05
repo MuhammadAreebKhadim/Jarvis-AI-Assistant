@@ -27,7 +27,6 @@ It can listen to your voice, understand commands, speak back, and perform real t
 
 Run the following before executing:
 
-    ```bash
      pip install pyttsx3
      pip install SpeechRecognition
      pip install wikipedia
