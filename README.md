@@ -10,7 +10,6 @@ It can listen to your voice, understand commands, speak back, and perform real t
 - Launching Folders & Files 
 - And more…
 
----
 
 ##  Features
 | Feature | Description |
@@ -21,7 +20,6 @@ It can listen to your voice, understand commands, speak back, and perform real t
 | Web Automation | Opens YouTube, Google, GitHub, etc. |
 | Local Automation | Opens folders / plays music on PC |
 
----
 
 ##  Requirements
 
